@@ -7,6 +7,7 @@ fav_color "black"
 print('I am', name, 'I am', age, years old, and i live in'
 ,address, and my favorite color is', fav_color)
 
+
 #Output
 I am Jerome Roque I am 19 years old, and i live in Natividad
 Guagua Pampanga and my favorite color is black
