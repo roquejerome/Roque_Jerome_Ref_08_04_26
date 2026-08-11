@@ -12,6 +12,7 @@ else:
 
 compare = Comparator()
 
+
 #Output
 Enter the first number: 33
 Enter the second number: 22
